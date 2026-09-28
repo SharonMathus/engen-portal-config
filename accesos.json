@@ -343,6 +343,34 @@
     "activo": true
   },
   {
+    "correoHash": "53dda7eec0c364505d4deae9061b7d646d9f10deeabb481be28d250bc4031e88",
+    "proyecto": "Territory Review Factoraje",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMzE4MzZhZDgtMzIyMi00ZjRkLWFhZjYtMDBmN2RiNmE0YzJiIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 2,
+    "activo": true
+  },
+  {
+    "correoHash": "53dda7eec0c364505d4deae9061b7d646d9f10deeabb481be28d250bc4031e88",
+    "proyecto": "ISCs",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiYTFhNTUzN2EtZGUyNS00N2JmLTgyYjItN2Q4YWZiMzNmOWRhIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 3,
+    "activo": true
+  },
+  {
+    "correoHash": "53dda7eec0c364505d4deae9061b7d646d9f10deeabb481be28d250bc4031e88",
+    "proyecto": "Panjiva",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiZjQ4ODEzNjgtMDhiMC00MGNjLWEzMzItYjk5NzVlYWNhMGZmIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true
+  },
+  {
+    "correoHash": "53dda7eec0c364505d4deae9061b7d646d9f10deeabb481be28d250bc4031e88",
+    "proyecto": "Industrial Info",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 5,
+    "activo": true
+  },
+  {
     "correoHash": "0bc421eacc71ee19f6db8238c88bea18ce5c0754fa2f21fb47cfc3add0ddc65d",
     "proyecto": "Analisis Cuentas",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiMzZhMzZkZTYtYzNkYS00N2JmLWE4ZDctYzIyYmY1MzIxMjMzIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
