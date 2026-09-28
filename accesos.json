@@ -20,4 +20,12 @@
     "orden": 3,
     "activo": true
   }
+  ,
+{
+  "correoHash": "ffd840a27ff3eeb798b635c629aa51ca39ced20b0390dc3a7e189d389b7dacd8",
+  "proyecto": "Dashboard Comercial",
+  "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+  "orden": 1,
+  "activo": true
+}
 ]
