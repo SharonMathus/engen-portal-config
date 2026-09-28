@@ -949,7 +949,7 @@
     "proyecto": "Dashboard Comercial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 10,
-    "activo": false
+    "activo": true
   },
   {
     "correoHash": "3dbac8fb4d8bf460930ca35beb92018b163001a291ef87d7c7cb80ef232c9d78",
