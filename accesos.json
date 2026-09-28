@@ -351,13 +351,6 @@
   },
   {
     "correoHash": "53dda7eec0c364505d4deae9061b7d646d9f10deeabb481be28d250bc4031e88",
-    "proyecto": "ISCs",
-    "url": "https://app.powerbi.com/view?r=eyJrIjoiYTFhNTUzN2EtZGUyNS00N2JmLTgyYjItN2Q4YWZiMzNmOWRhIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
-    "orden": 3,
-    "activo": true
-  },
-  {
-    "correoHash": "53dda7eec0c364505d4deae9061b7d646d9f10deeabb481be28d250bc4031e88",
     "proyecto": "Panjiva",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZjQ4ODEzNjgtMDhiMC00MGNjLWEzMzItYjk5NzVlYWNhMGZmIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 4,
@@ -903,6 +896,62 @@
     "activo": true
   },
   {
+    "correoHash": "63d275104742a3d200b3409373c7e530c99fb087d414084663ce4b616cab45a8",
+    "proyecto": "Dashboard Comercial RG",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiZDlmZGQ0ODktMzY1Ny00YmE3LTkwZWMtMGNmNmQ5YjlkNTk3IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 1,
+    "activo": true
+  },
+  {
+    "correoHash": "08de981d8fcc0f48dbe1f8aec4c652f60721227c3179b119480ed58f5e916996",
+    "proyecto": "Analsis de Estados Zac",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiNzU3YTI0ODAtNmNiYi00YTViLWIzZWMtYzA4MDhjMzEwNjI4IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 1,
+    "activo": true
+  },
+  {
+    "correoHash": "08de981d8fcc0f48dbe1f8aec4c652f60721227c3179b119480ed58f5e916996",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 2,
+    "activo": true
+  },
+  {
+    "correoHash": "08de981d8fcc0f48dbe1f8aec4c652f60721227c3179b119480ed58f5e916996",
+    "proyecto": "Industrial Info",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 3,
+    "activo": true
+  },
+  {
+    "correoHash": "08de981d8fcc0f48dbe1f8aec4c652f60721227c3179b119480ed58f5e916996",
+    "proyecto": "KPIs 2026",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiYTVmYTUxODYtMTI5OS00NTM4LTk3ZDAtNjI5OWFjN2Y0OTBmIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true
+  },
+  {
+    "correoHash": "08de981d8fcc0f48dbe1f8aec4c652f60721227c3179b119480ed58f5e916996",
+    "proyecto": "KPIs_LMM",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiYTY2YjA5NjctZDQyNS00YjQyLThmODYtNmY1YTY0NDUxNDc2IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 5,
+    "activo": true
+  },
+  {
+    "correoHash": "08de981d8fcc0f48dbe1f8aec4c652f60721227c3179b119480ed58f5e916996",
+    "proyecto": "Panjiva",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiZjQ4ODEzNjgtMDhiMC00MGNjLWEzMzItYjk5NzVlYWNhMGZmIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 6,
+    "activo": true
+  },
+  {
+    "correoHash": "08de981d8fcc0f48dbe1f8aec4c652f60721227c3179b119480ed58f5e916996",
+    "proyecto": "Territory Review",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMDRjZmZjNDgtYmYzYy00YTQzLTgwOGUtN2U1ZWNiZGNlZjExIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 7,
+    "activo": true
+  },
+  {
     "correoHash": "bb7dd037231759596b6f1a909f053fe8c2309b18a4f712369f58e99b0624da3e",
     "proyecto": "OBI 3.0",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiODNhYjFjNGYtMDljMS00YTRjLThlNmYtNDM5YWU2MzBjNzM2IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -921,56 +970,56 @@
     "proyecto": "Analisis Factoraje",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZTNiODFmMjktZTY3NS00YTY3LWE1ZjYtYzE4ZWMwNmU5ODc1IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 2,
-    "activo": false
+    "activo": true
   },
   {
     "correoHash": "3dbac8fb4d8bf460930ca35beb92018b163001a291ef87d7c7cb80ef232c9d78",
     "proyecto": "Analisis_Factoraje_Engen",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNDVjN2VjYzctOWYxNC00NWI2LTgxZTYtMDY4ZDNkNzZiZGFkIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 3,
-    "activo": false
+    "activo": true
   },
   {
     "correoHash": "3dbac8fb4d8bf460930ca35beb92018b163001a291ef87d7c7cb80ef232c9d78",
     "proyecto": "Analsis de Estados",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiOTMyZWY2ZWUtOGI3ZC00NGRjLTgxNDMtNTk2YWQzZWQ2NjdjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 4,
-    "activo": false
+    "activo": true
   },
   {
     "correoHash": "3dbac8fb4d8bf460930ca35beb92018b163001a291ef87d7c7cb80ef232c9d78",
     "proyecto": "Analsis de Estados CC 2.0",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiMTY1OGU2ZGMtZjQ2MC00ZDcyLTgwMTMtYTU2OGFkN2VmMTQ4IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 5,
-    "activo": false
+    "activo": true
   },
   {
     "correoHash": "3dbac8fb4d8bf460930ca35beb92018b163001a291ef87d7c7cb80ef232c9d78",
     "proyecto": "Analsis de Estados x Empresas",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiMzAzMTMzNDEtZGMyZi00OTJkLWE1NTYtODVjNmU0ZjA5NTA4IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 6,
-    "activo": false
+    "activo": true
   },
   {
     "correoHash": "3dbac8fb4d8bf460930ca35beb92018b163001a291ef87d7c7cb80ef232c9d78",
     "proyecto": "Analsis de Estados Zac",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzU3YTI0ODAtNmNiYi00YTViLWIzZWMtYzA4MDhjMzEwNjI4IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 7,
-    "activo": false
+    "activo": true
   },
   {
     "correoHash": "3dbac8fb4d8bf460930ca35beb92018b163001a291ef87d7c7cb80ef232c9d78",
     "proyecto": "An\u00E1lisis de \u00E9xito",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiMWU2Mzk2NGItYzQ4OS00MjQ4LTkxMmQtZDlhZmFhZjdlYWQ3IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 8,
-    "activo": false
+    "activo": true
   },
   {
     "correoHash": "3dbac8fb4d8bf460930ca35beb92018b163001a291ef87d7c7cb80ef232c9d78",
     "proyecto": "Dash_VFinal",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiYmE0NTgzNGQtOWI4MC00NzQ1LThlYjUtYjZiYTkxMjE0Mzg3IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 9,
-    "activo": false
+    "activo": true
   },
   {
     "correoHash": "3dbac8fb4d8bf460930ca35beb92018b163001a291ef87d7c7cb80ef232c9d78",
@@ -984,91 +1033,91 @@
     "proyecto": "Dashboard Comercial RG",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZDlmZGQ0ODktMzY1Ny00YmE3LTkwZWMtMGNmNmQ5YjlkNTk3IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 11,
-    "activo": false
+    "activo": true
   },
   {
     "correoHash": "3dbac8fb4d8bf460930ca35beb92018b163001a291ef87d7c7cb80ef232c9d78",
     "proyecto": "Dashboard_T\u0026L",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNGZiN2YyOTItNWMxNS00MzJlLTg0NTItNTAzZGUwZjQyODBjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 12,
-    "activo": false
+    "activo": true
   },
   {
     "correoHash": "3dbac8fb4d8bf460930ca35beb92018b163001a291ef87d7c7cb80ef232c9d78",
     "proyecto": "Especialistas Factoraje",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiOWY1NWQ3ZWEtOGIyMC00YzhjLWFmY2YtNmFhMmNkNDU5NzQ1IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 13,
-    "activo": false
+    "activo": true
   },
   {
     "correoHash": "3dbac8fb4d8bf460930ca35beb92018b163001a291ef87d7c7cb80ef232c9d78",
     "proyecto": "Industrial Info",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 14,
-    "activo": false
+    "activo": true
   },
   {
     "correoHash": "3dbac8fb4d8bf460930ca35beb92018b163001a291ef87d7c7cb80ef232c9d78",
     "proyecto": "ISCs",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiYTFhNTUzN2EtZGUyNS00N2JmLTgyYjItN2Q4YWZiMzNmOWRhIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 15,
-    "activo": false
+    "activo": true
   },
   {
     "correoHash": "3dbac8fb4d8bf460930ca35beb92018b163001a291ef87d7c7cb80ef232c9d78",
     "proyecto": "KPIs 2026",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiYTVmYTUxODYtMTI5OS00NTM4LTk3ZDAtNjI5OWFjN2Y0OTBmIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 16,
-    "activo": false
+    "activo": true
   },
   {
     "correoHash": "3dbac8fb4d8bf460930ca35beb92018b163001a291ef87d7c7cb80ef232c9d78",
     "proyecto": "KPIs_LMM",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiYTY2YjA5NjctZDQyNS00YjQyLThmODYtNmY1YTY0NDUxNDc2IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 17,
-    "activo": false
+    "activo": true
   },
   {
     "correoHash": "3dbac8fb4d8bf460930ca35beb92018b163001a291ef87d7c7cb80ef232c9d78",
     "proyecto": "Meetings Monterrey",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNjY2NjRiNzctNDdlZi00ZmJiLTllZWQtNWIwMmU5ZjBiM2FjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 18,
-    "activo": false
+    "activo": true
   },
   {
     "correoHash": "3dbac8fb4d8bf460930ca35beb92018b163001a291ef87d7c7cb80ef232c9d78",
     "proyecto": "Monthly Digest",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiYTY2Yjg2ZjUtZjIwMi00MWIwLTk1YjEtOTVhZDZmY2UyODEzIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 19,
-    "activo": false
+    "activo": true
   },
   {
     "correoHash": "3dbac8fb4d8bf460930ca35beb92018b163001a291ef87d7c7cb80ef232c9d78",
     "proyecto": "OBI 3.0",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiODNhYjFjNGYtMDljMS00YTRjLThlNmYtNDM5YWU2MzBjNzM2IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 20,
-    "activo": false
+    "activo": true
   },
   {
     "correoHash": "3dbac8fb4d8bf460930ca35beb92018b163001a291ef87d7c7cb80ef232c9d78",
     "proyecto": "Panjiva",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZjQ4ODEzNjgtMDhiMC00MGNjLWEzMzItYjk5NzVlYWNhMGZmIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 21,
-    "activo": false
+    "activo": true
   },
   {
     "correoHash": "3dbac8fb4d8bf460930ca35beb92018b163001a291ef87d7c7cb80ef232c9d78",
     "proyecto": "Territory Review",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiMDRjZmZjNDgtYmYzYy00YTQzLTgwOGUtN2U1ZWNiZGNlZjExIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 22,
-    "activo": false
+    "activo": true
   },
   {
     "correoHash": "3dbac8fb4d8bf460930ca35beb92018b163001a291ef87d7c7cb80ef232c9d78",
     "proyecto": "Territory Review Estados",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiYWYzZDFlNDYtMTIxNC00NGZhLWI0NDItODEwODRjOWM3YjM3IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 23,
-    "activo": false
+    "activo": true
   },
   {
     "correoHash": "3dbac8fb4d8bf460930ca35beb92018b163001a291ef87d7c7cb80ef232c9d78",
