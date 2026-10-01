@@ -539,6 +539,13 @@
     "activo": true
   },
   {
+    "correoHash": "491ba837597d36f348a2d6dea5d3957fe96d8959e357c52b20ac2187097c6032",
+    "proyecto": "EOL Vendedores",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiNDc5ZjlmMjYtZTg4ZC00ZTA2LTljNWItNjA0NDk5YzU2MWUwIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 1,
+    "activo": true
+  },
+  {
     "correoHash": "93b8cd78b89a03485c61833b45dd3e860aadcef9cc992b052fbc9b8167f9bc1d",
     "proyecto": "OBI 3.0",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiODNhYjFjNGYtMDljMS00YTRjLThlNmYtNDM5YWU2MzBjNzM2IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -1150,7 +1157,7 @@
   {
     "correoHash": "3dbac8fb4d8bf460930ca35beb92018b163001a291ef87d7c7cb80ef232c9d78",
     "proyecto": "EOL Vendedores",
-    "url": "https://app.powerbi.com/view?r=eyJrIjoiYWY4NDAyZTItMDY4OS00ZGFkLWE5ZmYtOTE0MWRkMDQxOGM2IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiNDc5ZjlmMjYtZTg4ZC00ZTA2LTljNWItNjA0NDk5YzU2MWUwIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 25,
     "activo": true
   }
