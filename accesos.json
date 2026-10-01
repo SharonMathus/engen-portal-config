@@ -896,6 +896,13 @@
     "activo": true
   },
   {
+    "correoHash": "ffd840a27ff3eeb798b635c629aa51ca39ced20b0390dc3a7e189d389b7dacd8",
+    "proyecto": "Dashboard Semanal LMM",
+    "url": "https://app.powerbi.com/reportEmbed?reportId=c4b791e2-864b-4232-8494-f7315b20a925\u0026autoAuth=true\u0026ctid=21321192-f36b-4efd-90f7-ae97681153ec",
+    "orden": 25,
+    "activo": true
+  },
+  {
     "correoHash": "63d275104742a3d200b3409373c7e530c99fb087d414084663ce4b616cab45a8",
     "proyecto": "Dashboard Comercial RG",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZDlmZGQ0ODktMzY1Ny00YmE3LTkwZWMtMGNmNmQ5YjlkNTk3IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
