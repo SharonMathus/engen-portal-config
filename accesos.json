@@ -1146,5 +1146,12 @@
     "url": "https://app.powerbi.com/view?r=eyJrIjoiMzE4MzZhZDgtMzIyMi00ZjRkLWFhZjYtMDBmN2RiNmE0YzJiIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 24,
     "activo": true
+  },
+  {
+    "correoHash": "3dbac8fb4d8bf460930ca35beb92018b163001a291ef87d7c7cb80ef232c9d78",
+    "proyecto": "EOL Vendedores",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiYWY4NDAyZTItMDY4OS00ZGFkLWE5ZmYtOTE0MWRkMDQxOGM2IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 25,
+    "activo": true
   }
 ]
