@@ -987,6 +987,13 @@
     "activo": true
   },
   {
+    "correoHash": "08de981d8fcc0f48dbe1f8aec4c652f60721227c3179b119480ed58f5e916996",
+    "proyecto": "Dashboard Semanal LMM",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiZTExNWZlNTYtNTM4Ny00ZDIwLWExM2MtYWNmNjExYjRiZmU0IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 8,
+    "activo": true
+  },
+  {
     "correoHash": "bb7dd037231759596b6f1a909f053fe8c2309b18a4f712369f58e99b0624da3e",
     "proyecto": "OBI 3.0",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiODNhYjFjNGYtMDljMS00YTRjLThlNmYtNDM5YWU2MzBjNzM2IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
