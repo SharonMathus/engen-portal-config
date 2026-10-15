@@ -792,6 +792,14 @@
     "filtroCorreo": false
   },
   {
+    "correoHash": "491ba837597d36f348a2d6dea5d3957fe96d8959e357c52b20ac2187097c6032",
+    "proyecto": "EOL Vendedores",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiNDc5ZjlmMjYtZTg4ZC00ZTA2LTljNWItNjA0NDk5YzU2MWUwIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "de6a084cd456fd1f2eeaa904c60deb29d93402a60214ac115a67c1c4417a515e",
     "proyecto": "Industrial Info",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
