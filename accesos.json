@@ -2277,7 +2277,7 @@
     "url": "https://app.powerbi.com/view?r=eyJrIjoiMjcxZTdhZDAtZTE5MS00ZWNlLWIxOTctMzA5OTBmMTA1MmVmIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 9,
     "activo": true,
-    "filtroCorreo": false
+    "filtroCorreo": true
   },
   {
     "correoHash": "bb7dd037231759596b6f1a909f053fe8c2309b18a4f712369f58e99b0624da3e",
