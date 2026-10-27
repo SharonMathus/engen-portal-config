@@ -608,6 +608,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "156ad7291e546d77a42e7fbb390e63ff02012ab9334866d75dd45b6c7ca57993",
+    "proyecto": "Capital Humano",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiY2U0NzRmOTctN2UzZi00Zjc3LTk3OTUtM2QwZjcwNjc3YzU2IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 1,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "93b8cd78b89a03485c61833b45dd3e860aadcef9cc992b052fbc9b8167f9bc1d",
     "proyecto": "OBI 3.0",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiODNhYjFjNGYtMDljMS00YTRjLThlNmYtNDM5YWU2MzBjNzM2IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
