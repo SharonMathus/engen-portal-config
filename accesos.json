@@ -1032,6 +1032,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "1e3f9ab4862cb1762ac597afebe5217fa33a6e12fe13e5febcce92eb81da640a",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "207aad19aac3c4aec686d04b825da95145d9ebdf04bfd64975b7409f75a47789",
     "proyecto": "OBI 3.0",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiODNhYjFjNGYtMDljMS00YTRjLThlNmYtNDM5YWU2MzBjNzM2IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
