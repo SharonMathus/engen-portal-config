@@ -1256,6 +1256,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "aed800d5f1673fdee293e853f8184d50bab377bcd090eaf82be7be78fe081c18",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "347052738a00977a03dfe2f378a920f38dbfe866549aab54bfa61447ecc50e24",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
