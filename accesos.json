@@ -216,6 +216,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "f00e3704ccbca7d2cb61bd924bdfff06f40afb83535688cd9c34d5d0044b4592",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "53dda7eec0c364505d4deae9061b7d646d9f10deeabb481be28d250bc4031e88",
     "proyecto": "OBI 3.0",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiODNhYjFjNGYtMDljMS00YTRjLThlNmYtNDM5YWU2MzBjNzM2IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -312,6 +320,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "fa690bfe17ac0c132b1cb22288197007eac716785a59d049320df2e688c7d19d",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "251c97e12989537e78db132103f734ab634c5cf5d6b278b64a80872c531db044",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -332,6 +348,14 @@
     "proyecto": "EOL Originadores",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZGU1ZTBmMDYtOGVkYy00ZmRiLWE4MzMtNjgxMzcxMDUyZWUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "251c97e12989537e78db132103f734ab634c5cf5d6b278b64a80872c531db044",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
     "activo": true,
     "filtroCorreo": true
   },
@@ -360,6 +384,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "017598149e4303c49a65eb2a86ce4a1ee77aeac89b5f0386d90a776501253190",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "1b5803305d36df50127392c2cc4b1c46593a62368cd59a735e462e87fa6f1857",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -384,6 +416,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "1b5803305d36df50127392c2cc4b1c46593a62368cd59a735e462e87fa6f1857",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "bbe21d57df5240dc19ceb500d18c3a10ac630e8ed4a90bdf1da794e006ccef94",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -404,6 +444,14 @@
     "proyecto": "EOL Originadores",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZGU1ZTBmMDYtOGVkYy00ZmRiLWE4MzMtNjgxMzcxMDUyZWUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "bbe21d57df5240dc19ceb500d18c3a10ac630e8ed4a90bdf1da794e006ccef94",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
     "activo": true,
     "filtroCorreo": true
   },
@@ -568,6 +616,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "491ba837597d36f348a2d6dea5d3957fe96d8959e357c52b20ac2187097c6032",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "de6a084cd456fd1f2eeaa904c60deb29d93402a60214ac115a67c1c4417a515e",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -592,6 +648,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "de6a084cd456fd1f2eeaa904c60deb29d93402a60214ac115a67c1c4417a515e",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "9ed13df8051a717e10c7f4645125e175c7127f0d651b9e823fe9fdfd12a3f771",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -612,6 +676,14 @@
     "proyecto": "EOL Originadores",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZGU1ZTBmMDYtOGVkYy00ZmRiLWE4MzMtNjgxMzcxMDUyZWUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "9ed13df8051a717e10c7f4645125e175c7127f0d651b9e823fe9fdfd12a3f771",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
     "activo": true,
     "filtroCorreo": true
   },
@@ -688,6 +760,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "777250fe54a26130c708e57b06badf6defc9c934eee4440b7051b68d22dc6085",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "f8d0f5821c0155a580af55451fbe0e51812b3fa23a57af324d56f18c7ed9770f",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -708,6 +788,14 @@
     "proyecto": "EOL Originadores",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZGU1ZTBmMDYtOGVkYy00ZmRiLWE4MzMtNjgxMzcxMDUyZWUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "f8d0f5821c0155a580af55451fbe0e51812b3fa23a57af324d56f18c7ed9770f",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
     "activo": true,
     "filtroCorreo": true
   },
@@ -832,6 +920,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "772d5c676f3fc6ec3157263da33e559d6c5cf99d8300090917eaed747e6719d6",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "129ae214b66486867604771940b856f99143b04e3ed7f0b42cd8b32b51c9dd70",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -852,6 +948,14 @@
     "proyecto": "EOL Originadores",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZGU1ZTBmMDYtOGVkYy00ZmRiLWE4MzMtNjgxMzcxMDUyZWUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "129ae214b66486867604771940b856f99143b04e3ed7f0b42cd8b32b51c9dd70",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
     "activo": true,
     "filtroCorreo": true
   },
@@ -936,6 +1040,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "9f529b84591445ba48926a1292eda2951b5f8a96c6a192ebc3f2f40de37a97aa",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "d9d61eefea787db3769a142bcd409a933b8640ffc9e2b0a59f406de4571523ab",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -956,6 +1068,14 @@
     "proyecto": "EOL Originadores",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZGU1ZTBmMDYtOGVkYy00ZmRiLWE4MzMtNjgxMzcxMDUyZWUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "d9d61eefea787db3769a142bcd409a933b8640ffc9e2b0a59f406de4571523ab",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
     "activo": true,
     "filtroCorreo": true
   },
@@ -1012,6 +1132,14 @@
     "proyecto": "EOL Originadores",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZGU1ZTBmMDYtOGVkYy00ZmRiLWE4MzMtNjgxMzcxMDUyZWUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "2ea1e4bc1d9421366d449297789006b88f0b93a69931c5477cb64c68ef9624e3",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
     "activo": true,
     "filtroCorreo": true
   },
@@ -1080,6 +1208,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "a565af412c40844634f87f36f44d7dbda3ce7c3fd3d3d6019cfcfb3d36c590e8",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "0c30560c222a0a7972c65134b19d61fffbff59f3e1d9c7a0bb0bb4de7c3d869a",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -1100,6 +1236,14 @@
     "proyecto": "EOL Originadores",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZGU1ZTBmMDYtOGVkYy00ZmRiLWE4MzMtNjgxMzcxMDUyZWUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "0c30560c222a0a7972c65134b19d61fffbff59f3e1d9c7a0bb0bb4de7c3d869a",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
     "activo": true,
     "filtroCorreo": true
   },
@@ -1128,6 +1272,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "20622cad7c4f949b3f16aac0080c67a2b2fff0b2bd9d4fa6708f3bfa47e51aa6",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "bd5ca6d8777fca7f357eb4271e6f74be1f6fe917c0830f7c42eff33ea92948d3",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -1148,6 +1300,14 @@
     "proyecto": "EOL Originadores",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZGU1ZTBmMDYtOGVkYy00ZmRiLWE4MzMtNjgxMzcxMDUyZWUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "bd5ca6d8777fca7f357eb4271e6f74be1f6fe917c0830f7c42eff33ea92948d3",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
     "activo": true,
     "filtroCorreo": true
   },
@@ -1176,6 +1336,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "49807caedf3746a8a5d38a1c572ad078623b5060513d12f365b601e916475ca7",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "59335a51cebdaa7529c9f9aec49b1334a617da471e0366418aa054d7425ffa0c",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -1196,6 +1364,14 @@
     "proyecto": "EOL Originadores",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZGU1ZTBmMDYtOGVkYy00ZmRiLWE4MzMtNjgxMzcxMDUyZWUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "59335a51cebdaa7529c9f9aec49b1334a617da471e0366418aa054d7425ffa0c",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
     "activo": true,
     "filtroCorreo": true
   },
@@ -1288,6 +1464,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "347052738a00977a03dfe2f378a920f38dbfe866549aab54bfa61447ecc50e24",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "2450f335a6736ea974a3bf0d5fd90c11a6601d0f547db50fbc5ce9973dccd670",
     "proyecto": "Dashboard Comercial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -1344,6 +1528,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "7bc805ee1f68725a191e94017845094e0d72991e611a26cec20c700dbe6ec3d2",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "d7fe074490c28095e0abd586af2efae16d3faad7ae022224dce418fde6ce438e",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -1364,6 +1556,14 @@
     "proyecto": "EOL Originadores",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZGU1ZTBmMDYtOGVkYy00ZmRiLWE4MzMtNjgxMzcxMDUyZWUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "d7fe074490c28095e0abd586af2efae16d3faad7ae022224dce418fde6ce438e",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
     "activo": true,
     "filtroCorreo": true
   },
@@ -1392,6 +1592,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "cc24a264a275828f62d7cc66e7b0dcbf6134c9e660fff72f8b590339323f5c4e",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "52f6d3f15e5386ab8dffa8cdde1098b2965673bbbbd2549a9260f5768cc0d0a1",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -1412,6 +1620,14 @@
     "proyecto": "EOL Originadores",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZGU1ZTBmMDYtOGVkYy00ZmRiLWE4MzMtNjgxMzcxMDUyZWUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "52f6d3f15e5386ab8dffa8cdde1098b2965673bbbbd2549a9260f5768cc0d0a1",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
     "activo": true,
     "filtroCorreo": true
   },
@@ -1440,6 +1656,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "2b1b806a84c5deb6ada81b1762324cc5be78d4f1599fd94e842cfba7e8d76454",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "ae939e393e0315274240fbd299441f7bef3ee18a4a3798369fddf03945853b72",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -1464,6 +1688,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "ae939e393e0315274240fbd299441f7bef3ee18a4a3798369fddf03945853b72",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "dbd8c1f2250cd8bfefcfc6a87435ad666d9b5658904222faa709597f69e053ab",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -1484,6 +1716,14 @@
     "proyecto": "EOL Originadores",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZGU1ZTBmMDYtOGVkYy00ZmRiLWE4MzMtNjgxMzcxMDUyZWUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "dbd8c1f2250cd8bfefcfc6a87435ad666d9b5658904222faa709597f69e053ab",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
     "activo": true,
     "filtroCorreo": true
   },
@@ -1572,6 +1812,14 @@
     "proyecto": "EOL Originadores",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZGU1ZTBmMDYtOGVkYy00ZmRiLWE4MzMtNjgxMzcxMDUyZWUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "473027d4d0f6272773bbe29804faaf2e55e4b6b50c496e1e4354b2a27f56bd80",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
     "activo": true,
     "filtroCorreo": true
   },
@@ -1608,6 +1856,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "bd74b7b3fca38aee4aaee7089922113348760d018a9f291861758b3e0bf9e061",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "6536e630936faf5c2a9d9a89400c6fe19016d578bec7f1de18e6bd3f430dd770",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -1628,6 +1884,14 @@
     "proyecto": "EOL Originadores",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZGU1ZTBmMDYtOGVkYy00ZmRiLWE4MzMtNjgxMzcxMDUyZWUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "6536e630936faf5c2a9d9a89400c6fe19016d578bec7f1de18e6bd3f430dd770",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
     "activo": true,
     "filtroCorreo": true
   },
@@ -1760,6 +2024,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "c6d6cb1f18fc6ea8ff188a5062622d2813d66d9a7b1bce4197a6ea7dbb1245b8",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "ef1d2d83fc041b4018e5e7aa092de158a90d30e08568751cdbee30e6519e86d0",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -1780,6 +2052,14 @@
     "proyecto": "EOL Originadores",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZGU1ZTBmMDYtOGVkYy00ZmRiLWE4MzMtNjgxMzcxMDUyZWUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "ef1d2d83fc041b4018e5e7aa092de158a90d30e08568751cdbee30e6519e86d0",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
     "activo": true,
     "filtroCorreo": true
   },
@@ -1800,6 +2080,22 @@
     "filtroCorreo": false
   },
   {
+    "correoHash": "d1757f27097f2d135d37a716861b9368c6b03990019019765101fcd8fc9a3a07",
+    "proyecto": "EOL Originadores",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiZGU1ZTBmMDYtOGVkYy00ZmRiLWE4MzMtNjgxMzcxMDUyZWUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "d1757f27097f2d135d37a716861b9368c6b03990019019765101fcd8fc9a3a07",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "b08bfc13e73e6c9f14080006bbab0c6f109db97ec48bc98a0b293edc90fbac08",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -1820,6 +2116,14 @@
     "proyecto": "EOL Originadores",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZGU1ZTBmMDYtOGVkYy00ZmRiLWE4MzMtNjgxMzcxMDUyZWUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "b08bfc13e73e6c9f14080006bbab0c6f109db97ec48bc98a0b293edc90fbac08",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
     "activo": true,
     "filtroCorreo": true
   },
@@ -1848,6 +2152,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "2dfb848c2ac4231e988ccd335f1d1dc520d16954add4486042dcaf9a97a31d72",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "446b20381a7a7b133066e9865438396f2c5378fcec3de25877f7ea897a4cc556",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -1868,6 +2180,14 @@
     "proyecto": "EOL Originadores",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZGU1ZTBmMDYtOGVkYy00ZmRiLWE4MzMtNjgxMzcxMDUyZWUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "446b20381a7a7b133066e9865438396f2c5378fcec3de25877f7ea897a4cc556",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
     "activo": true,
     "filtroCorreo": true
   },
@@ -1896,6 +2216,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "b3d6dd04ed6a11ff0c56fc87297fdd8ba4e9bbbe96acd1cdfd40076bfc0e04de",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "fac12d7466d89c4effdcf9d52d039a96541e9c9bc67f100b29f00e9eb10f24ad",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -1920,6 +2248,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "fac12d7466d89c4effdcf9d52d039a96541e9c9bc67f100b29f00e9eb10f24ad",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "dd2c09177cfd5e32e0df007c27a5f19b8963d5ef2b21ead83c131e5b6babcf89",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -1940,16 +2276,24 @@
     "proyecto": "EOL Originadores",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZGU1ZTBmMDYtOGVkYy00ZmRiLWE4MzMtNjgxMzcxMDUyZWUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "dd2c09177cfd5e32e0df007c27a5f19b8963d5ef2b21ead83c131e5b6babcf89",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
     "activo": true,
     "filtroCorreo": true
   },
   {
     "correoHash": "63d275104742a3d200b3409373c7e530c99fb087d414084663ce4b616cab45a8",
-    "proyecto": "Dashboard Comercial RG",
-    "url": "https://app.powerbi.com/view?r=eyJrIjoiZDlmZGQ0ODktMzY1Ny00YmE3LTkwZWMtMGNmNmQ5YjlkNTk3IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 1,
     "activo": true,
-    "filtroCorreo": false
+    "filtroCorreo": true
   },
   {
     "correoHash": "63d275104742a3d200b3409373c7e530c99fb087d414084663ce4b616cab45a8",
@@ -2032,6 +2376,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "a066844e15373eed9cdc865281b17b0cb4e9f6902933633414dd746a649a8a9c",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "d306165c1e1ca24193b4f4e0b1c2d4f6c21fd8b913db96cbb7c942559eb63bbf",
     "proyecto": "Dashboard Comercial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -2088,6 +2440,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "8eea1f892e49ab74cc43c1aba06a2a46c947a020099bd8b30a285fc7f58a4f26",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "a75473a44e3e67339ba51866ff0d22b29e071cf96d71abffb0d0c1a6ef8b3dcb",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -2112,6 +2472,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "a75473a44e3e67339ba51866ff0d22b29e071cf96d71abffb0d0c1a6ef8b3dcb",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "260b6f78e6f62118af5b7b13e39b6231e1c7ca5ee2b548438f31ab3345d918b8",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -2132,6 +2500,14 @@
     "proyecto": "EOL Originadores",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZGU1ZTBmMDYtOGVkYy00ZmRiLWE4MzMtNjgxMzcxMDUyZWUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "260b6f78e6f62118af5b7b13e39b6231e1c7ca5ee2b548438f31ab3345d918b8",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
     "activo": true,
     "filtroCorreo": true
   },
@@ -2296,6 +2672,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "3e535183f667100d20d0c92b07c8245b847acd877cae77ed6adac325de702116",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "470498efe0c3c476b42aebdf4c632824a99d37052250d8fb247317d0b230baa4",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -2316,6 +2700,14 @@
     "proyecto": "EOL Originadores",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZGU1ZTBmMDYtOGVkYy00ZmRiLWE4MzMtNjgxMzcxMDUyZWUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "470498efe0c3c476b42aebdf4c632824a99d37052250d8fb247317d0b230baa4",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
     "activo": true,
     "filtroCorreo": true
   },
@@ -2344,6 +2736,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "f3d97a58ce5cb3d6005b928e0a1ceacd58a8bfcad32970b87f329c75361de32b",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "cb9a52cb0e847043b379a3fe71a4d803cffc090cc9f0f249441dc2e0f0ac5986",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -2364,6 +2764,14 @@
     "proyecto": "EOL Originadores",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZGU1ZTBmMDYtOGVkYy00ZmRiLWE4MzMtNjgxMzcxMDUyZWUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "cb9a52cb0e847043b379a3fe71a4d803cffc090cc9f0f249441dc2e0f0ac5986",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
     "activo": true,
     "filtroCorreo": true
   },
@@ -2504,6 +2912,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "8c13f0fb33d2839f930f9eab6a9fc3ac9c69ce8d7bdd6c77fc9a46a9e17ff9b1",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "5aaf245aebd20b32e5acef82b6f539705da6a56dde28dd1a149be983cb1f5ef5",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -2528,6 +2944,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "5aaf245aebd20b32e5acef82b6f539705da6a56dde28dd1a149be983cb1f5ef5",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "2ba2b418e153dfd49adf10dc7a05145b8bd1212d0817a95a8c458c8c2b0f3314",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -2548,6 +2972,14 @@
     "proyecto": "EOL Originadores",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiZGU1ZTBmMDYtOGVkYy00ZmRiLWE4MzMtNjgxMzcxMDUyZWUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "2ba2b418e153dfd49adf10dc7a05145b8bd1212d0817a95a8c458c8c2b0f3314",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 4,
     "activo": true,
     "filtroCorreo": true
   }
