@@ -1248,6 +1248,22 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "1d82c34c8c111fd1480359527acdd565f134f13a7124d3897795cba5af9e90d2",
+    "proyecto": "Proyectos Industrial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 1,
+    "activo": true,
+    "filtroCorreo": false
+  },
+  {
+    "correoHash": "1d82c34c8c111fd1480359527acdd565f134f13a7124d3897795cba5af9e90d2",
+    "proyecto": "Importaciones",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiZjQ4ODEzNjgtMDhiMC00MGNjLWEzMzItYjk5NzVlYWNhMGZmIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 2,
+    "activo": true,
+    "filtroCorreo": false
+  },
+  {
     "correoHash": "20622cad7c4f949b3f16aac0080c67a2b2fff0b2bd9d4fa6708f3bfa47e51aa6",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
