@@ -288,6 +288,14 @@
     "filtroCorreo": false
   },
   {
+    "correoHash": "9d3c782cb8fc5f682140321fcc72c3e994a48856116ae8a548506e450134f3e5",
+    "proyecto": "Squad",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiNmNmZDEwOWItMjYxMy00N2JkLWFmZmItMGE1NWMxZTI4Mjk4IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 5,
+    "activo": true,
+    "filtroCorreo": false
+  },
+  {
     "correoHash": "4836adccd0753b2ff92cc95b053d5af7b6838b7bec4a2d98b0a624a1df53ab84",
     "proyecto": "Territory Review Factoraje",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiMzE4MzZhZDgtMzIyMi00ZjRkLWFhZjYtMDBmN2RiNmE0YzJiIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
