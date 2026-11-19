@@ -1872,6 +1872,30 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "cf2fe4bf3315ffe9a1fa012795936e26a6d6af4d44d9d06540708c18c9b9275e",
+    "proyecto": "Dashboard Comercial",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 1,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
+    "correoHash": "cf2fe4bf3315ffe9a1fa012795936e26a6d6af4d44d9d06540708c18c9b9275e",
+    "proyecto": "Squad",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiNmNmZDEwOWItMjYxMy00N2JkLWFmZmItMGE1NWMxZTI4Mjk4IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 2,
+    "activo": true,
+    "filtroCorreo": false
+  },
+  {
+    "correoHash": "cf2fe4bf3315ffe9a1fa012795936e26a6d6af4d44d9d06540708c18c9b9275e",
+    "proyecto": "EOL Direcci\u00F3n",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiMjcxZTdhZDAtZTE5MS00ZWNlLWIxOTctMzA5OTBmMTA1MmVmIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 3,
+    "activo": true,
+    "filtroCorreo": true
+  },
+  {
     "correoHash": "473027d4d0f6272773bbe29804faaf2e55e4b6b50c496e1e4354b2a27f56bd80",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
