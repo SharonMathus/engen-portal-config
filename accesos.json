@@ -1256,6 +1256,14 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "83723180f1998a482dbe83e16de8de3625073af691a89e94115ca438c7f886d8",
+    "proyecto": "Squad",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiNmNmZDEwOWItMjYxMy00N2JkLWFmZmItMGE1NWMxZTI4Mjk4IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 1,
+    "activo": true,
+    "filtroCorreo": false
+  },
+  {
     "correoHash": "0c30560c222a0a7972c65134b19d61fffbff59f3e1d9c7a0bb0bb4de7c3d869a",
     "proyecto": "Proyectos Industrial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNzFlYWQ0ZTMtMzQyZC00YjJlLWJkYzgtM2JkMjgyOWQ3MjUxIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -1334,6 +1342,14 @@
     "orden": 4,
     "activo": true,
     "filtroCorreo": true
+  },
+  {
+    "correoHash": "90b1ae243a353b429916dc55ba5e61e6b25886689a8ab4a97511642e3ca4f5c5",
+    "proyecto": "Squad",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiNmNmZDEwOWItMjYxMy00N2JkLWFmZmItMGE1NWMxZTI4Mjk4IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 1,
+    "activo": true,
+    "filtroCorreo": false
   },
   {
     "correoHash": "bd5ca6d8777fca7f357eb4271e6f74be1f6fe917c0830f7c42eff33ea92948d3",
@@ -1540,6 +1556,14 @@
     "proyecto": "Squad",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiNmNmZDEwOWItMjYxMy00N2JkLWFmZmItMGE1NWMxZTI4Mjk4IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 5,
+    "activo": true,
+    "filtroCorreo": false
+  },
+  {
+    "correoHash": "3bf849316c1a477cfb2ecc1ec6805d16eb049f57b089df9972a3104436d3a708",
+    "proyecto": "Squad",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiNmNmZDEwOWItMjYxMy00N2JkLWFmZmItMGE1NWMxZTI4Mjk4IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 1,
     "activo": true,
     "filtroCorreo": false
   },
