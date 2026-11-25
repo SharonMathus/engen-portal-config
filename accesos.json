@@ -264,6 +264,14 @@
     "filtroCorreo": false
   },
   {
+    "correoHash": "53dda7eec0c364505d4deae9061b7d646d9f10deeabb481be28d250bc4031e88",
+    "proyecto": "Squad",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiNmNmZDEwOWItMjYxMy00N2JkLWFmZmItMGE1NWMxZTI4Mjk4IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 5,
+    "activo": true,
+    "filtroCorreo": false
+  },
+  {
     "correoHash": "9d3c782cb8fc5f682140321fcc72c3e994a48856116ae8a548506e450134f3e5",
     "proyecto": "Dashboard Comercial",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiMjFjOTRjMzAtNDIzYS00NDhjLTlhNmYtMDM1YmY2OWNlODVjIiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
@@ -2792,10 +2800,26 @@
     "filtroCorreo": true
   },
   {
+    "correoHash": "08de981d8fcc0f48dbe1f8aec4c652f60721227c3179b119480ed58f5e916996",
+    "proyecto": "Squad",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiNmNmZDEwOWItMjYxMy00N2JkLWFmZmItMGE1NWMxZTI4Mjk4IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 9,
+    "activo": true,
+    "filtroCorreo": false
+  },
+  {
     "correoHash": "bb7dd037231759596b6f1a909f053fe8c2309b18a4f712369f58e99b0624da3e",
     "proyecto": "OBI 3.0",
     "url": "https://app.powerbi.com/view?r=eyJrIjoiODNhYjFjNGYtMDljMS00YTRjLThlNmYtNDM5YWU2MzBjNzM2IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
     "orden": 1,
+    "activo": true,
+    "filtroCorreo": false
+  },
+  {
+    "correoHash": "bb7dd037231759596b6f1a909f053fe8c2309b18a4f712369f58e99b0624da3e",
+    "proyecto": "Squad",
+    "url": "https://app.powerbi.com/view?r=eyJrIjoiNmNmZDEwOWItMjYxMy00N2JkLWFmZmItMGE1NWMxZTI4Mjk4IiwidCI6IjIxMzIxMTkyLWYzNmItNGVmZC05MGY3LWFlOTc2ODExNTNlYyIsImMiOjR9",
+    "orden": 2,
     "activo": true,
     "filtroCorreo": false
   },
